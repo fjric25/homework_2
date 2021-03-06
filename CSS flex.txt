@@ -1,0 +1,9 @@
+display: flex;
+flex-direction: column
+
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+https://flexboxfroggy.com/
+
+align-text: flex start or flex-end or flex-center or flex-baseline.
